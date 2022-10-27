@@ -1,1 +1,1 @@
-# BAYESIAN APPROACH IN CRYPTOANALYSIS: CONSTRUCTION AND STUDY OF DETERMINISTIC AND STOCHASTIC DECISION FUNCTIONS
+# Bayesian approach in cryptanalysis: construction i deterministic and stochastic research solving functions
