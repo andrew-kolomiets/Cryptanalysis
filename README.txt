@@ -1,1 +1,1 @@
-БАЄСIВСЬКИЙ ПIДХIД В КРИПТОАНАЛIЗI: ПОБУДОВА I ДОСЛIДЖЕННЯ ДЕТЕРМIНIСТИЧНОЇ ТА СТОХАСТИЧНОЇ ВИРIШУЮЧИХ ФУНКЦIЙ
+# BAYESIAN APPROACH IN CRYPTOANALYSIS: CONSTRUCTION AND STUDY OF DETERMINISTIC AND STOCHASTIC DECISION FUNCTIONS
