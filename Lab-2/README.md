@@ -1,0 +1,1 @@
+# Statistical criteria for open text
